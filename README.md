@@ -54,7 +54,8 @@ dotnet build [-r system] [-c runtime]
 
 #### Automatically configure and run
 > If you use Visual Studio, you can open ReactFS.sln and press F5 directly to run this web application automatically
-
+>
+> If you use Visual Studio Code, you can open the project folder and press F5 directly to run this web application automatically
 ## Publish
 ```
 dotnet publish [-r system] [-c runtime]
